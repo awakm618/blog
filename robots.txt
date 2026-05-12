@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://awakm618.github.io/sitemap.xml
+Sitemap: https://hud233.gitee.io/sitemap.xml
